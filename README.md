@@ -1,1 +1,1 @@
-# piscine-js-2
+i do my exercices in js here
